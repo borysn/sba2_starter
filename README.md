@@ -19,6 +19,7 @@ spring boot, dart, angular2, sass, and bootstrap4.
     - you may be able to use your linux package manager to install binaries, but you'll want to download the sdk for ide config
 * (optional) install gradle
     - otherwise just use `$ ./gradelw`
+
 ## install
 `$ git clone git@github.com:borysn/sba2_starter`
 
