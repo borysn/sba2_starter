@@ -1,0 +1,15 @@
+<div>
+    <a [routerLink]="['Home']" class="btn btn-primary">Home Page</a>
+</div>
+
+<h2>ng_bootstrap test</h2>
+
+<bs-alert type="info">ng_bootstrap hello world!</bs-alert>
+
+<pre>Selected date is: <em>{{dateTime}}</em></pre>
+<h4>Inline</h4>
+<div style="display:inline-block; min-height:290px;">
+    <bs-date-picker [(ngModel)]="dateTime" [minDate]="minDate" [showWeeks]="true">
+    </bs-date-picker>
+</div>
+

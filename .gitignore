@@ -1,0 +1,72 @@
+# Java Generated
+*.class
+*.jar
+*.war
+*.ear
+
+# other
+dump.rdb
+
+# gradle
+.gradle/
+bin/
+build/
+npm-debug.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Spring Generated
+.springBeans
+
+# Eclipse Generated
+.classpath
+.project
+.settings/
+.metadata/
+target/
+
+# IntelliJ Generated
+.idea
+
+# Front End Dependency Generated
+.sass-cache/
+bower_components/
+dist/
+node/
+node_modules/
+npm-debug.log
+.tscache/
+scss/.tmp/
+js/lib/
+typings/
+app/resources/
+
+# Files and directories created by pub
+.packages
+.pub
+build/
+packages
+pubspec.lock
+
+# Files created by dart2js
+*.dart.js
+*.part.js
+*.js.deps
+*.js.map
+*.info.json
+
+# Directory created by dartdoc
+doc/api/
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
