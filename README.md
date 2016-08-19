@@ -29,7 +29,7 @@ spring boot, dart, angular2, sass, and bootstrap4.
 1. `$ gradle clean build`
 2. `$ gradle bootRun`
 3. `$ cd ./frontend`
-4. `$ pub get && pub install`
+4. `$ pub get && pub build`
 5. `$ pub serve`
 6. using browser, navigate to `localhost:8080`
 
